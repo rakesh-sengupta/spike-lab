@@ -17,12 +17,7 @@ The "potassium blocker" removes 90% of the voltage-opened part of the K⁺ condu
 the small resting part, so the cell still rests at −65 mV. Because this is a cold squid axon,
 refractory periods are longer than in a warm mammalian neuron.
 
-## Publishing on GitHub Pages
 
-1. Create a new **public** repository named exactly `spike-lab` (the slides' QR code expects this name).
-2. Upload everything in this folder, keeping the `lib/` folder.
-3. **Settings → Pages**: Deploy from a branch, branch **main**, folder **/ (root)**, Save.
-4. After a minute or two: `https://rakesh-sengupta.github.io/spike-lab/`
 
 ## Credits
 
